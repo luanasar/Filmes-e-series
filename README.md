@@ -5,7 +5,6 @@
 #### Tecnologias utilizadas:
 - HTML
 - CSS
-- JavaScript
 
 ## Contato
 
